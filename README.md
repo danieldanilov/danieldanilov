@@ -1,6 +1,7 @@
 # Hi, I'm Daniel 👋
 
 I'm a **Product-minded builder** with a background spanning product management, data analytics, user experience, and leadership.  
+
 Over the past decade at [Automattic](https://automattic.com), I worked across teams like WordPress.com, WooCommerce, Tumblr, and People Analytics — helping design, support, and scale products used by millions.
 
 ### 🌱 What I'm focused on:
@@ -15,7 +16,7 @@ Over the past decade at [Automattic](https://automattic.com), I worked across te
 - **Frameworks:** Early experience with Ruby on Rails
 - **Data:** BigQuery, Looker, Superset, ETL workflows, KPI design
 - **Product:** Figma, Jira, Confluence, Shape Up methodology
-- **Development:** GitHub, Pull Requests, basic scripting and automation
+- **Development:** GitHub, Pull Requests, Cursor, basic scripting and automation
 - **AI Usage:** Daily use of AI tools to accelerate research, writing, prototyping, problem-solving, and technical execution
 - **Other:** Open source contributor mindset, async collaboration, remote leadership
 
